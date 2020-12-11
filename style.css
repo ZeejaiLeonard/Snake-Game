@@ -1,0 +1,12 @@
+body{
+ background-color: green;
+ margin:0;
+}
+#wrapperDiv{
+  margin: auto;
+  text-align: center;
+}
+#cnv{
+  width:800px;
+  height:800px;
+}
